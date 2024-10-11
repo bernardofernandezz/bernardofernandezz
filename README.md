@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Information Technology Apprentice at @AmaraNzeroBrasi<br>🌱 I’m currently learning Java, Spring and Maven<br>
+🔭 Information Technology Apprentice at @AmaraNzeroBrasil<br>🌱 I’m currently learning Java, Spring and Maven<br>
 
 
 ## 🌐 Socials:
