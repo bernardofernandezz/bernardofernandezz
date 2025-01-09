@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,python,typescript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,java,git,github,pycharm,intelij,bash" />
   </a>
 </p>
 # 📊 GitHub Stats:
