@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍🔬 About Me:
 🔭 Information Technology Assitant at @AmaraNzeroBrasil<br>🌱 I’m currently learning React and Web Frameworks<br>
 
 ## 🌐 Socials:
