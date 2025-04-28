@@ -48,7 +48,7 @@ const Bernardo = {
 <h3>My Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,nodejs,postgres,postman,py,tailwind,vscode,vercel,vite,supabase,styledcomponents,sass,prisma,powershell,mysql,express,npm,yarn,"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,git,nodejs,postgres,postman,py,tailwind,vscode,vercel,vite,supabase,sass,prisma,powershell,mysql,express,npm,yarn,"/>
 </p>
 
 ### 📊 Weekly development breakdown
