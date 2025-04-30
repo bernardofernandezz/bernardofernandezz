@@ -1,6 +1,6 @@
 > *"Every Week I try new ideas on Building in public."*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwitholga" alt="buildwitholga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardofernandezz" alt="bernardofernandez" /> </p>
 
 ## About Me
 ```typescript
