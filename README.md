@@ -32,6 +32,9 @@ const Bernardo = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Claude](https://img.shields.io/badge/claude-%23000000.svg?style=for-the-badge&logo=claude&logoColor=white)
+
+### Monitoring
+![Grafana](https://img.shields.io/badge/grafana-412991?style=for-the-badge&logo=grafana&logoColor=white)
 </div>
 
 # 🛠️ Weekend SaaS Stack
