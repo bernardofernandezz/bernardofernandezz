@@ -33,9 +33,9 @@ const Bernardo = {
 ![Claude](https://img.shields.io/badge/claude-%23000000.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 ### Cloud
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Grafana](https://img.shields.io/badge/kubernates-326CE5?style=for-the-badge&logo=grafana&logoColor=white)
 </div>
 
