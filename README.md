@@ -36,7 +36,7 @@ const Bernardo = {
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/kubernates-326CE5?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0066FF?style=for-the-badge&logo=grafana&logoColor=white)
 </div>
 
 # 🛠️ Weekend SaaS Stack
