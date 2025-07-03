@@ -16,20 +16,4 @@ const Bernardo = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,react,git,nodejs,postgres,linux,ubuntu,postman,py,tailwind,vscode,vercel,supabase,firebase,sass,prisma,powershell,bash,mysql,express,npm,yarn,k8s,grafana,docker,terraform"/>
 </p>
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 36 hrs 58 mins
-
-TypeScript   24 hrs 57 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.74 %
-Node         7 hrs 7 mins    ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.79 %
-Supabase     1 hr 38 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.34 %
-Other        58 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.57 %
-JavaScript   32 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.43 %
-```
-
-<!--END_SECTION:waka-->
-
 ---
