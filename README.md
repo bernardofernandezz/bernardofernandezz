@@ -12,17 +12,6 @@ const Bernardo = {
 ```
 
 ## Tech Stack
-</div>
-
-# 🛠️ Weekend SaaS Stack
-<div align="center">
-
-### Quick Backend Setup
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<h3>My Languages and Tools:</h3>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,git,nodejs,postgres,linux,postman,py,tailwind,vscode,vercel,supabase,sass,prisma,powershell,bash,mysql,express,npm,yarn,railway"/>
 </p>
