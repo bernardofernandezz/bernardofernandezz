@@ -6,7 +6,7 @@
 ```typescript
 const Bernardo = {
   role: "High School Student and developer",
-  focus: "Full Stack Development",
+  focus: "AI & Machine Learning Engineering",
   passion: "Contribute Open Source and build tiny startups and projects"
 };
 ```
