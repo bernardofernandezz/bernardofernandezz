@@ -13,7 +13,7 @@ const Bernardo = {
 
 ## Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,go,react,vite,git,nodejs,postgres,arduino,linux,ubuntu,postman,py,pytorch,tensorflow,tailwind,vscode,vercel,supabase,firebase,powershell,bash,mysql,npm,yarn,k8s,grafana,docker,googlecloud"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,go,react,vite,git,nodejs,postgres,arduino,linux,ubuntu,postman,py,pytorch,tensorflow,tailwind,vscode,eclipse,vercel,supabase,firebase,powershell,bash,mysql,npm,yarn,k8s,grafana,docker,googlecloud"/>
 </p>
 
 ---
