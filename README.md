@@ -20,4 +20,4 @@ const Bernardo = {
 <p align="flex-start">
 <img src="https://skillicons.dev/icons?i=aws,terraform"/>
 </p>
----
+
