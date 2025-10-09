@@ -18,6 +18,6 @@ const Bernardo = {
 
 ## Learning...
 <p align="center">
-<img src="https://skillicons.dev/icons?i=AWS,terraform"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform"/>
 </p>
 ---
