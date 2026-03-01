@@ -13,11 +13,6 @@ const Bernardo = {
 
 ## Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,py,golang,react,nextjs,nodejs,postgres,arduino,linux,vscode,vercel,bash,k8s,grafana,docker,googlecloud"/>
-</p>
-
-## Learning...
-<p align="flex-start">
-<img src="https://skillicons.dev/icons?i=aws,terraform"/>
+<img src="https://skillicons.dev/icons?i=ts,py,golang,react,nextjs,nodejs,postgres,arduino,linux,arch,vscode,vercel,bash,k8s,grafana,docker,googlecloud"/>
 </p>
 
