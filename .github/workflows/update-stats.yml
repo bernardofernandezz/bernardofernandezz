@@ -27,17 +27,17 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Gerar SVGs
+      - name: Generate banner
         working-directory: scripts
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ github.token }}
           GH_USERNAME: ${{ github.repository_owner }}
-        run: node generate-stats.js && node generate-langs.js && node generate-activity.js
+        run: npm run generate
 
-      - name: Commit se houver mudanças
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git diff --cached --quiet || git commit -m "chore: atualiza cards de estatísticas [skip ci]"
+          git add assets/banner.svg
+          git diff --cached --quiet || git commit -m "chore: update profile banner [skip ci]"
           git push

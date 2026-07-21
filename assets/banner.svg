@@ -1,0 +1,141 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Bernardo Fernandez — Software Engineer</title>
+  <desc id="description">GitHub profile dashboard for bernardofernandezz, updated PENDING FIRST REFRESH</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="620" rx="18"/></clipPath>
+    <radialGradient id="spotlight"><stop stop-color="#71717a" stop-opacity=".34"/><stop offset="1" stop-color="#09090b" stop-opacity="0"/></radialGradient>
+    <linearGradient id="grid-fade" x1="0" y1="0" x2="0" y2="1"><stop stop-color="white"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <mask id="grid-mask"><rect width="1200" height="390" fill="url(#grid-fade)"/></mask>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#000" flood-opacity=".28"/></filter>
+  </defs>
+  <style>
+    .display { font-family: Georgia, 'Times New Roman', serif; }
+    .mono { font-family: ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .grid { stroke:#27272a; stroke-width:1; animation:grid-drift 14s linear infinite; }
+    .spotlight { transform-origin:1080px 72px; animation:spotlight-pulse 5s ease-in-out infinite; }
+    .status-ring { transform-box:fill-box; transform-origin:center; animation:status-ping 2.2s ease-out infinite; }
+    .reveal { animation:rise .7s cubic-bezier(.2,.8,.2,1) both; }
+    .pill rect { fill:#18181b; stroke:#27272a; }
+    .pill text { fill:#d4d4d8; font:500 12px ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .separator { stroke:#27272a; }
+    .stat-value { fill:#fafafa; font:700 24px ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .stat-label { fill:#71717a; font:600 10px ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; letter-spacing:.08em; text-transform:uppercase; }
+    .chart-title { fill:#fafafa; font:600 15px Georgia, 'Times New Roman', serif; }
+    .chart-meta,.axis-label { fill:#71717a; font:500 10px ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .activity-bar { transform-box:fill-box; transform-origin:center bottom; animation:bar-grow .75s cubic-bezier(.2,.8,.2,1) both; }
+    .language-row { animation:rise .6s ease-out both; }
+    .language-label,.language-percent { fill:#a1a1aa; font:500 11px ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; }
+    .track { fill:#27272a; }
+    .language-bar { fill:#e4e4e7; transform-box:fill-box; transform-origin:left center; animation:bar-fill .9s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes grid-drift { to { transform:translate(30px,30px); } }
+    @keyframes spotlight-pulse { 50% { opacity:.55; transform:scale(1.08); } }
+    @keyframes status-ping { 75%,100% { opacity:0; transform:scale(2.5); } }
+    @keyframes rise { from { opacity:0; transform:translateY(10px); } }
+    @keyframes bar-grow { from { opacity:.2; transform:scaleY(0); } }
+    @keyframes bar-fill { from { transform:scaleX(0); } }
+    @media (prefers-reduced-motion:reduce) {
+      .grid,.spotlight,.status-ring,.reveal,.activity-bar,.language-row,.language-bar { animation:none; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="620" fill="#09090b"/>
+    <g class="grid" mask="url(#grid-mask)"><line x1="0" y1="-30" x2="0" y2="390"/><line x1="30" y1="-30" x2="30" y2="390"/><line x1="60" y1="-30" x2="60" y2="390"/><line x1="90" y1="-30" x2="90" y2="390"/><line x1="120" y1="-30" x2="120" y2="390"/><line x1="150" y1="-30" x2="150" y2="390"/><line x1="180" y1="-30" x2="180" y2="390"/><line x1="210" y1="-30" x2="210" y2="390"/><line x1="240" y1="-30" x2="240" y2="390"/><line x1="270" y1="-30" x2="270" y2="390"/><line x1="300" y1="-30" x2="300" y2="390"/><line x1="330" y1="-30" x2="330" y2="390"/><line x1="360" y1="-30" x2="360" y2="390"/><line x1="390" y1="-30" x2="390" y2="390"/><line x1="420" y1="-30" x2="420" y2="390"/><line x1="450" y1="-30" x2="450" y2="390"/><line x1="480" y1="-30" x2="480" y2="390"/><line x1="510" y1="-30" x2="510" y2="390"/><line x1="540" y1="-30" x2="540" y2="390"/><line x1="570" y1="-30" x2="570" y2="390"/><line x1="600" y1="-30" x2="600" y2="390"/><line x1="630" y1="-30" x2="630" y2="390"/><line x1="660" y1="-30" x2="660" y2="390"/><line x1="690" y1="-30" x2="690" y2="390"/><line x1="720" y1="-30" x2="720" y2="390"/><line x1="750" y1="-30" x2="750" y2="390"/><line x1="780" y1="-30" x2="780" y2="390"/><line x1="810" y1="-30" x2="810" y2="390"/><line x1="840" y1="-30" x2="840" y2="390"/><line x1="870" y1="-30" x2="870" y2="390"/><line x1="900" y1="-30" x2="900" y2="390"/><line x1="930" y1="-30" x2="930" y2="390"/><line x1="960" y1="-30" x2="960" y2="390"/><line x1="990" y1="-30" x2="990" y2="390"/><line x1="1020" y1="-30" x2="1020" y2="390"/><line x1="1050" y1="-30" x2="1050" y2="390"/><line x1="1080" y1="-30" x2="1080" y2="390"/><line x1="1110" y1="-30" x2="1110" y2="390"/><line x1="1140" y1="-30" x2="1140" y2="390"/><line x1="1170" y1="-30" x2="1170" y2="390"/><line x1="1200" y1="-30" x2="1200" y2="390"/><line x1="1230" y1="-30" x2="1230" y2="390"/><line x1="1260" y1="-30" x2="1260" y2="390"/><line x1="-30" y1="0" x2="1230" y2="0"/><line x1="-30" y1="30" x2="1230" y2="30"/><line x1="-30" y1="60" x2="1230" y2="60"/><line x1="-30" y1="90" x2="1230" y2="90"/><line x1="-30" y1="120" x2="1230" y2="120"/><line x1="-30" y1="150" x2="1230" y2="150"/><line x1="-30" y1="180" x2="1230" y2="180"/><line x1="-30" y1="210" x2="1230" y2="210"/><line x1="-30" y1="240" x2="1230" y2="240"/><line x1="-30" y1="270" x2="1230" y2="270"/><line x1="-30" y1="300" x2="1230" y2="300"/><line x1="-30" y1="330" x2="1230" y2="330"/><line x1="-30" y1="360" x2="1230" y2="360"/><line x1="-30" y1="390" x2="1230" y2="390"/><line x1="-30" y1="420" x2="1230" y2="420"/></g>
+    <circle class="spotlight" cx="1080" cy="72" r="330" fill="url(#spotlight)"/>
+    <line x1="0" y1="52" x2="1200" y2="52" stroke="#27272a"/>
+    <text x="36" y="33" class="mono" fill="#71717a" font-size="11">bernardofernandezz.dev</text>
+    <g transform="translate(1082 27)">
+      <circle class="status-ring" r="5" fill="none" stroke="#fafafa" opacity=".55"/>
+      <circle r="4" fill="#fafafa"/>
+      <text x="14" y="4" class="mono" fill="#a1a1aa" font-size="11">available</text>
+    </g>
+
+    <g class="reveal" style="animation-delay:40ms">
+      <text x="36" y="91" class="mono" fill="#a1a1aa" font-size="11" font-weight="600" letter-spacing="1.5">SOFTWARE ENGINEER · BRAZIL</text>
+      <text x="36" y="145" class="display" fill="#fafafa" font-size="46" font-weight="700" letter-spacing="-1.8">Bernardo Fernandez</text>
+      <text x="36" y="178" class="display" fill="#a1a1aa" font-size="17">Building thoughtful products with clear code and precise interfaces.</text>
+    </g>
+    <g class="pill reveal" style="animation-delay:130ms"><g transform="translate(36 203)"><rect width="96" height="30" rx="7"/><text x="48" y="19" text-anchor="middle">TypeScript</text></g><g transform="translate(140 203)"><rect width="68" height="30" rx="7"/><text x="34" y="19" text-anchor="middle">React</text></g><g transform="translate(216 203)"><rect width="82" height="30" rx="7"/><text x="41" y="19" text-anchor="middle">VTEX IO</text></g><g transform="translate(306 203)"><rect width="72" height="30" rx="7"/><text x="36" y="19" text-anchor="middle">Python</text></g><g transform="translate(386 203)"><rect width="72" height="30" rx="7"/><text x="36" y="19" text-anchor="middle">Golang</text></g></g>
+
+    <rect x="36" y="278" width="1128" height="90" rx="10" fill="#0c0c0e" stroke="#27272a" filter="url(#shadow)"/>
+    
+      <g class="reveal" style="animation-delay:220ms">
+        <text x="60" y="320" class="stat-value">0</text>
+        <text x="60" y="343" class="stat-label">Contributions</text>
+      </g><line x1="261.6" y1="293" x2="261.6" y2="353" class="separator"/>
+      <g class="reveal" style="animation-delay:290ms">
+        <text x="285.6" y="320" class="stat-value">0</text>
+        <text x="285.6" y="343" class="stat-label">Pull requests</text>
+      </g><line x1="487.2" y1="293" x2="487.2" y2="353" class="separator"/>
+      <g class="reveal" style="animation-delay:360ms">
+        <text x="511.2" y="320" class="stat-value">0</text>
+        <text x="511.2" y="343" class="stat-label">Repositories</text>
+      </g><line x1="712.8" y1="293" x2="712.8" y2="353" class="separator"/>
+      <g class="reveal" style="animation-delay:430ms">
+        <text x="736.8" y="320" class="stat-value">0</text>
+        <text x="736.8" y="343" class="stat-label">Stars earned</text>
+      </g><line x1="938.4" y1="293" x2="938.4" y2="353" class="separator"/>
+      <g class="reveal" style="animation-delay:500ms">
+        <text x="962.4" y="320" class="stat-value">0</text>
+        <text x="962.4" y="343" class="stat-label">Followers</text>
+      </g>
+
+    <rect x="36" y="388" width="700" height="196" rx="10" fill="#0c0c0e" stroke="#27272a"/>
+    <text x="60" y="421" class="chart-title">Contribution activity</text>
+    <text x="60" y="441" class="chart-meta">0 contributions · last 14 days</text>
+    <g>
+      <rect class="activity-bar" style="animation-delay:380ms" x="60.00" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="79.57" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:425ms" x="107.14" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="126.71" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:470ms" x="154.29" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="173.86" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:515ms" x="201.43" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="221.00" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:560ms" x="248.57" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="268.14" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:605ms" x="295.71" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="315.29" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:650ms" x="342.86" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="362.43" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:695ms" x="390.00" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="409.57" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:740ms" x="437.14" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="456.71" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:785ms" x="484.29" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="503.86" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:830ms" x="531.43" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="551.00" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:875ms" x="578.57" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="598.14" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:920ms" x="625.71" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="645.29" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g><g>
+      <rect class="activity-bar" style="animation-delay:965ms" x="672.86" y="546.00" width="39.14" height="4.00" rx="4" fill="#27272a"/>
+      <text x="692.43" y="570" text-anchor="middle" class="axis-label">–</text>
+    </g>
+
+    <rect x="752" y="388" width="412" height="196" rx="10" fill="#0c0c0e" stroke="#27272a"/>
+    <text x="776" y="421" class="chart-title">Language mix</text>
+    <text x="1136" y="421" text-anchor="end" class="chart-meta">public repositories</text>
+    <g class="language-row" style="animation-delay:500ms">
+      <text x="776" y="464" class="language-label">No public data</text>
+      <rect x="874" y="456" width="218" height="7" rx="3.5" class="track"/>
+      <rect x="874" y="456" width="0.00" height="7" rx="3.5" class="language-bar"/>
+      <text x="1136" y="464" text-anchor="end" class="language-percent">0.0%</text>
+    </g>
+    <text x="36" y="607" class="mono" fill="#52525b" font-size="9">UPDATED PENDING FIRST REFRESH · GITHUB ACTIONS</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="619" rx="17.5" stroke="#27272a"/>
+</svg>
