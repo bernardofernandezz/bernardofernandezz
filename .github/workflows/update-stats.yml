@@ -1,0 +1,43 @@
+name: Update profile stats
+
+on:
+  schedule:
+    # Todos os dias às 06:00 UTC (~03:00 em Brasília)
+    - cron: "0 6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Gerar SVGs
+        working-directory: scripts
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: node generate-stats.js && node generate-langs.js && node generate-activity.js
+
+      - name: Commit se houver mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet || git commit -m "chore: atualiza cards de estatísticas [skip ci]"
+          git push

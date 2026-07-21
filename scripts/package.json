@@ -1,0 +1,16 @@
+{
+  "name": "profile-readme-scripts",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Geradores de SVG estilo shadcn/ui para o README de perfil do GitHub",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "stats": "node generate-stats.js",
+    "langs": "node generate-langs.js",
+    "activity": "node generate-activity.js",
+    "generate": "npm run stats && npm run langs && npm run activity"
+  }
+}
