@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=E4E4E7&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+SEU_NOME;Desenvolvedor(a)+Full+Stack;Construindo+coisas+na+web" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=E4E4E7&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+Bernardo+Fernandez;Desenvolvedor(a)+Full+Stack;Construindo+coisas+na+web" alt="typing banner" />
 
 <br/>
 
