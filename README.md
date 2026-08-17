@@ -11,7 +11,7 @@ software engineer from Brazil. I like small diffs, sharp interfaces and boring, 
 | **now** | building things at **Amara Net Zero** |
 | **daily drivers** | `TypeScript` `React` `VTEX IO` |
 | **also fluent** | `Python` `Go` |
-| **elsewhere** | [@bernfz](https://x.com/bernfz) |
+| **elsewhere** | [@bernardofernandezz](https://x.com/bernardofernandezz) |
 
 <details>
 <summary>the snake that eats my contributions, daily at 06:00 UTC</summary>
