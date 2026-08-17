@@ -2,7 +2,7 @@
   "name": "profile-readme-scripts",
   "private": true,
   "version": "1.0.0",
-  "description": "Gerador do banner shadcn para o README de perfil",
+  "description": "Gerador do banner do README de perfil",
   "type": "commonjs",
   "engines": {
     "node": ">=20"
