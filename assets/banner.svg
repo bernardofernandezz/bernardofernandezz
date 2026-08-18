@@ -1,6 +1,6 @@
 <svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Bernardo Fernandez — Software Engineer</title>
-  <desc id="description">Live GitHub profile of bernardofernandezz: repositories, stars, followers and language mix, updated 2026-08-17.</desc>
+  <desc id="description">Live GitHub profile of bernardofernandezz: repositories, stars, followers and language mix, updated 2026-08-18.</desc>
   <style>
     .sans { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
@@ -47,7 +47,7 @@
       </g>
   <line x1="48" y1="368" x2="1152" y2="368" stroke="#232328"/>
   <text x="48" y="388" class="stat-label">languages</text>
-  <text x="1152" y="428" text-anchor="end" class="legend" fill="#3f3f46">updated 2026-08-17 · github actions</text>
+  <text x="1152" y="428" text-anchor="end" class="legend" fill="#3f3f46">updated 2026-08-18 · github actions</text>
   <rect class="seg" style="animation-delay:430ms" x="48.0" y="396" width="414.0" height="12" fill="#bef264"/><rect class="seg" style="animation-delay:510ms" x="462.0" y="396" width="276.0" height="12" fill="#6b6b74"/><rect class="seg" style="animation-delay:590ms" x="738.0" y="396" width="138.0" height="12" fill="#4a4a52"/><rect class="seg" style="animation-delay:670ms" x="876.0" y="396" width="138.0" height="12" fill="#33333a"/><rect class="seg" style="animation-delay:750ms" x="1014.0" y="396" width="138.0" height="12" fill="#232329"/><text x="48" y="428" class="legend">Python 27%<tspan fill="#3f3f46"> · </tspan>TypeScript 18%<tspan fill="#3f3f46"> · </tspan>JavaScript 9%<tspan fill="#3f3f46"> · </tspan>Java 9%<tspan fill="#3f3f46"> · </tspan>QML 9%</text>
   <rect x=".5" y=".5" width="1199" height="439" stroke="#232328"/>
 </svg>
