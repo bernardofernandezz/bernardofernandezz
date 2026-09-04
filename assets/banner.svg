@@ -1,6 +1,6 @@
 <svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Bernardo Fernandez — Software Engineer</title>
-  <desc id="description">Live GitHub profile of bernardofernandezz: repositories, stars, followers and language mix, updated 2026-09-03.</desc>
+  <desc id="description">Live GitHub profile of bernardofernandezz: repositories, stars, followers and language mix, updated 2026-09-04.</desc>
   <style>
     .sans { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
@@ -30,7 +30,7 @@
   <line x1="48" y1="252" x2="1152" y2="252" stroke="#232328"/>
   
       <g class="reveal" style="animation-delay:150ms">
-        <text x="68" y="314" class="stat-value">13</text>
+        <text x="68" y="314" class="stat-value">14</text>
         <text x="68" y="335" class="stat-label">repositories</text>
       </g><line x1="324" y1="276" x2="324" y2="336" stroke="#232328"/>
       <g class="reveal" style="animation-delay:220ms">
@@ -47,7 +47,7 @@
       </g>
   <line x1="48" y1="368" x2="1152" y2="368" stroke="#232328"/>
   <text x="48" y="388" class="stat-label">languages</text>
-  <text x="1152" y="428" text-anchor="end" class="legend" fill="#3f3f46">updated 2026-09-03 · github actions</text>
-  <rect class="seg" style="animation-delay:430ms" x="48.0" y="396" width="368.0" height="12" fill="#bef264"/><rect class="seg" style="animation-delay:510ms" x="416.0" y="396" width="368.0" height="12" fill="#6b6b74"/><rect class="seg" style="animation-delay:590ms" x="784.0" y="396" width="122.7" height="12" fill="#4a4a52"/><rect class="seg" style="animation-delay:670ms" x="906.7" y="396" width="122.7" height="12" fill="#33333a"/><rect class="seg" style="animation-delay:750ms" x="1029.3" y="396" width="122.7" height="12" fill="#232329"/><text x="48" y="428" class="legend">TypeScript 25%<tspan fill="#3f3f46"> · </tspan>Python 25%<tspan fill="#3f3f46"> · </tspan>JavaScript 8%<tspan fill="#3f3f46"> · </tspan>Java 8%<tspan fill="#3f3f46"> · </tspan>QML 8%</text>
+  <text x="1152" y="428" text-anchor="end" class="legend" fill="#3f3f46">updated 2026-09-04 · github actions</text>
+  <rect class="seg" style="animation-delay:430ms" x="48.0" y="396" width="441.6" height="12" fill="#bef264"/><rect class="seg" style="animation-delay:510ms" x="489.6" y="396" width="331.2" height="12" fill="#6b6b74"/><rect class="seg" style="animation-delay:590ms" x="820.8" y="396" width="110.4" height="12" fill="#4a4a52"/><rect class="seg" style="animation-delay:670ms" x="931.2" y="396" width="110.4" height="12" fill="#33333a"/><rect class="seg" style="animation-delay:750ms" x="1041.6" y="396" width="110.4" height="12" fill="#232329"/><text x="48" y="428" class="legend">TypeScript 31%<tspan fill="#3f3f46"> · </tspan>Python 23%<tspan fill="#3f3f46"> · </tspan>JavaScript 8%<tspan fill="#3f3f46"> · </tspan>Java 8%<tspan fill="#3f3f46"> · </tspan>QML 8%</text>
   <rect x=".5" y=".5" width="1199" height="439" stroke="#232328"/>
 </svg>
